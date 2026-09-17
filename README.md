@@ -2,107 +2,114 @@
 
 # Dwaragesh D
 
-### Technical Support · Production Support · Cloud Support
+### Technical Support Engineer · Production Support · Cloud Support
 
-Building toward **Reliability Engineering / SRE** through hands-on work with  
-AWS infrastructure, Linux, PostgreSQL, Redis, observability, CI/CD, and incident response.
+I troubleshoot systems, build support labs, and engineer production-style environments  
+around **Linux, AWS, PostgreSQL, Redis, observability, and incident response.**
 
-`AWS` · `Linux` · `PostgreSQL` · `Redis` · `Docker` · `Terraform` · `Prometheus` · `Grafana`
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 
 </div>
 
 ---
 
-## Engineering Focus
+## Featured Projects
 
-I work on systems from an operational perspective:
-
-**Deploy → Observe → Break → Investigate → Recover → Document**
-
-Current focus:
-
-- Production and Application Support
-- Linux troubleshooting
-- AWS cloud operations
-- PostgreSQL and SQL
-- Monitoring and observability
-- Incident response
-- Reliability engineering
-
----
-
-## Featured Work
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚦 OpsPilot
 
-**Production Support & Reliability Engineering Platform**
+**Production Support & Reliability Engineering**
 
-AWS ECS Fargate · Terraform · FastAPI · PostgreSQL · Redis · Prometheus · Grafana
+AWS ECS · Terraform · PostgreSQL · Redis · Prometheus · Grafana
 
-- immutable ECS deployments
-- GitHub Actions CI/CD with AWS OIDC
-- database migration gates
-- ECS deployment circuit breaker and rollback
-- SLOs and error-budget monitoring
-- Prometheus, Grafana, Loki, and Tempo
-- controlled failure injection
-- operational runbooks
-- 8 documented production-style incidents
+- production-style AWS staging
+- CI/CD with AWS OIDC
+- migration gates
+- SLOs and error budgets
+- 8 controlled incidents
+- runbooks and recovery validation
 
-[View OpsPilot →](https://github.com/dwaradwara/opspilot)
+[View project →](https://github.com/dwaradwara/opspilot)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛠️ L2 Production Support Lab
 
-Support-focused troubleshooting across Linux, APIs, HTTP, Nginx, PostgreSQL, and monitoring.
+**Application & Infrastructure Troubleshooting**
 
-[View Project →](https://github.com/dwaradwara/l2-production-support-lab)
+Linux · Nginx · HTTP · APIs · PostgreSQL
 
----
+- 401 / 403 / 500 troubleshooting
+- service failures
+- log analysis
+- database investigation
+- escalation workflow
+
+[View project →](https://github.com/dwaradwara/l2-production-support-lab)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Supabase Support Lab
 
-Hands-on support scenarios covering PostgreSQL, RLS, REST APIs, authentication, storage, and SQL performance.
+**Developer & Database Support**
 
-[View Project →](https://github.com/dwaradwara/supabase-support-lab)
+PostgreSQL · RLS · Auth · Storage · REST APIs
 
----
+- permission failures
+- API troubleshooting
+- RLS diagnosis
+- storage errors
+- query optimization
+
+[View project →](https://github.com/dwaradwara/supabase-support-lab)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🐧 Ubuntu KVM Support Lab
 
-Linux virtualization and infrastructure troubleshooting using Ubuntu and KVM.
+**Linux Infrastructure Support**
 
-[View Project →](https://github.com/dwaradwara/ubuntu-kvm-support-lab)
+Ubuntu · KVM · Networking · Virtualization
 
----
+- VM troubleshooting
+- host diagnostics
+- networking
+- Linux services
+- infrastructure support
 
-## Engineering Toolkit
+[View project →](https://github.com/dwaradwara/ubuntu-kvm-support-lab)
 
-| Area | Technologies |
-|---|---|
-| **Systems** | Linux, Windows, CLI, networking, HTTP, DNS |
-| **Cloud** | AWS, ECS, EC2, RDS, S3, ElastiCache, CloudWatch |
-| **Data** | PostgreSQL, SQL, Redis |
-| **Containers** | Docker, Docker Compose, ECS Fargate |
-| **Infrastructure** | Terraform |
-| **CI/CD** | GitHub Actions, AWS OIDC |
-| **Observability** | Prometheus, Grafana, Loki, Tempo, OpenTelemetry |
-| **Support** | Troubleshooting, incident response, RCA, runbooks |
+</td>
+</tr>
+</table>
 
 ---
 
-## How I Approach Incidents
+## What I Work On
 
 ```text
-Detect
-  ↓
-Investigate
-  ↓
-Identify failure domain
-  ↓
-Mitigate
-  ↓
-Validate recovery
-  ↓
-Document
+Production Support
+Cloud Operations
+Linux Troubleshooting
+PostgreSQL / SQL
+Incident Response
+Observability
+Reliability Engineering
