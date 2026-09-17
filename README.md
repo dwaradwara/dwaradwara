@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Troubleshooting+systems+from+API+to+infrastructure;Building+production-style+support+environments;Linux+%7C+AWS+%7C+PostgreSQL+%7C+Observability;Detect+%E2%86%92+Investigate+%E2%86%92+Recover+%E2%86%92+Document"
-  />
+  <b>Production Support · Cloud Operations · Incident Response · Reliability Engineering</b>
 </p>
 
 <p align="center">
