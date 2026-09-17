@@ -1,21 +1,21 @@
-<!-- HERO -->
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dwaragesh%20D&fontAlign=50&fontAlignY=38&desc=Production%20Support%20%7C%20Cloud%20Support%20%7C%20Reliability%20Engineering&descAlign=50&descAlignY=58&color=0:020617,50:0f172a,100:0e7490&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Dwaragesh%20D&fontAlign=50&fontAlignY=37&desc=Technical%20Support%20%E2%80%A2%20Production%20Support%20%E2%80%A2%20Cloud%20Support&descAlign=50&descAlignY=58&color=0:020617,45:0f172a,100:0891b2&fontColor=ffffff"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Troubleshooting+systems+from+API+to+infrastructure;Building+production-style+support+environments;Linux+%7C+AWS+%7C+PostgreSQL+%7C+Observability;Detect+%E2%86%92+Investigate+%E2%86%92+Recover+%E2%86%92+Document"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Troubleshooting+systems+from+API+to+infrastructure;Building+production-style+support+environments;Linux+%7C+AWS+%7C+PostgreSQL+%7C+Observability;Detect+%E2%86%92+Investigate+%E2%86%92+Recover+%E2%86%92+Document"
   />
 </p>
 
 <p align="center">
-  Technical Support Engineer focused on production troubleshooting, cloud operations,
-  incident response, and reliability engineering.
+  I build and troubleshoot production-style systems across
+  <b>Linux, AWS, PostgreSQL, Redis, APIs, observability, and incident response.</b>
 </p>
 
 <br>
@@ -29,111 +29,126 @@
   <img src="https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC">
 </p>
 
+<br>
+
 ---
 
-## ⚡ Featured Engineering Work
+# ⚡ Featured Engineering Work
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🚦 OpsPilot
+## 🚦 OpsPilot
 
 **Production Support & Reliability Engineering**
 
-`AWS` `ECS` `Terraform` `PostgreSQL` `Redis`
+`AWS ECS` `Terraform` `PostgreSQL` `Redis` `Prometheus` `Grafana`
 
-Production-style AWS environment focused on operating systems rather than only building them.
+Production-style AWS staging environment built around operating, monitoring, breaking, diagnosing, and recovering services.
 
-**Highlights**
+### Highlights
 
-- CI/CD with AWS OIDC
-- immutable ECS deployments
-- migration safety gates
-- SLOs & error budgets
+- Immutable ECS deployments
+- GitHub Actions + AWS OIDC
+- Database migration gates
+- ECS deployment protection
+- SLOs and error budgets
 - Prometheus / Grafana / Loki / Tempo
-- 8 controlled incident drills
-- runbooks & recovery validation
+- Transactional outbox architecture
+- Controlled failure injection
+- 8 documented incident drills
+- Operational runbooks
+
+<br>
 
 <a href="https://github.com/dwaradwara/opspilot">
-  <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20OpsPilot-0284C7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛠️ L2 Support Lab
+## 🛠️ L2 Production Support Lab
 
 **Application & Infrastructure Troubleshooting**
 
-`Linux` `Nginx` `HTTP` `APIs` `PostgreSQL`
+`Linux` `Nginx` `HTTP` `REST API` `PostgreSQL`
 
-Support-focused environment built around realistic application failures.
+Support-focused troubleshooting environment built around realistic application and infrastructure failures.
 
-**Highlights**
+### Focus
 
-- HTTP 401 / 403 / 500
-- backend failures
-- log investigation
+- HTTP 400 / 401 / 403 / 500
 - API troubleshooting
+- Nginx failures
+- Log investigation
 - PostgreSQL diagnosis
-- escalation workflow
+- Service recovery
+- Escalation workflow
+
+<br>
 
 <a href="https://github.com/dwaradwara/l2-production-support-lab">
-  <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Lab-0284C7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### ⚡ Supabase Support Lab
+## ⚡ Supabase Support Lab
 
 **Developer & Database Support**
 
 `PostgreSQL` `RLS` `Auth` `Storage` `REST`
 
-Realistic customer-support scenarios covering database and API failures.
+Hands-on technical support scenarios focused on database permissions, authentication, APIs, and query behavior.
 
-**Highlights**
+### Focus
 
 - RLS visibility failures
-- Storage 403
-- permission diagnosis
-- REST API errors
-- SQL optimization
+- Storage upload errors
+- Permission troubleshooting
+- REST API failures
+- Authentication diagnosis
+- SQL performance
+- Query optimization
+
+<br>
 
 <a href="https://github.com/dwaradwara/supabase-support-lab">
-  <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Lab-0284C7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🐧 Ubuntu KVM Lab
+## 🐧 Ubuntu KVM Support Lab
 
 **Linux Infrastructure Support**
 
 `Ubuntu` `KVM` `Networking` `Virtualization`
 
-Infrastructure troubleshooting focused on Linux hosts and virtual machines.
+Linux infrastructure lab focused on host, VM, networking, and service-level troubleshooting.
 
-**Highlights**
+### Focus
 
 - VM diagnostics
-- host troubleshooting
-- networking
-- services
-- virtualization support
+- Linux services
+- Host troubleshooting
+- Networking
+- Virtualization
+- Infrastructure support
+
+<br>
 
 <a href="https://github.com/dwaradwara/ubuntu-kvm-support-lab">
-  <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Lab-0284C7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -142,7 +157,7 @@ Infrastructure troubleshooting focused on Linux hosts and virtual machines.
 
 ---
 
-## 🧭 Engineering Approach
+# 🧭 How I Approach Incidents
 
 <p align="center">
 
@@ -152,36 +167,159 @@ Infrastructure troubleshooting focused on Linux hosts and virtual machines.
 
 ---
 
-## 🧰 Stack
+# 🧰 Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,terraform,postgres,redis,python,github,grafana&theme=dark" />
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🐧 Systems
+
+Linux  
+Windows  
+CLI  
+HTTP  
+DNS  
+Networking
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️ Cloud
+
+AWS  
+ECS  
+EC2  
+RDS  
+S3  
+ElastiCache
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Observability
+
+Prometheus  
+Grafana  
+Loki  
+Tempo  
+OpenTelemetry  
+CloudWatch
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️ Data
+
+PostgreSQL  
+SQL  
+Redis  
+Alembic  
+SQLAlchemy
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔎 Engineering Focus
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🔧 Production Support
+
+Application failures  
+Logs  
+APIs  
+Troubleshooting
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️ Cloud Operations
+
+AWS infrastructure  
+ECS services  
+Deployments  
+Health checks
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚨 Incident Response
+
+Failure isolation  
+Mitigation  
+Recovery  
+Runbooks
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈 Reliability
+
+SLOs  
+Error budgets  
+Monitoring  
+Resilience
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,terraform,postgres,redis,python,github,grafana&theme=dark" />
+**Technical Support Engineering · Production Support · Cloud Support · Reliability Engineering / SRE**
 
+</p>
+
+<p align="center">
+  Building deeper production experience through real infrastructure,
+  failure simulations, observability, and operational troubleshooting.
 </p>
 
 ---
 
-## 🔎 Areas I Work In
+<p align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><b>Production Support</b><br>Logs · APIs · Incidents</td>
-<td align="center" width="25%"><b>Cloud Operations</b><br>AWS · ECS · RDS</td>
-<td align="center" width="25%"><b>Observability</b><br>Metrics · Logs · Traces</td>
-<td align="center" width="25%"><b>Reliability</b><br>SLOs · Recovery · Runbooks</td>
-</tr>
-</table>
+### `Build → Operate → Observe → Break Safely → Understand → Improve`
+
+<br>
+
+<a href="https://github.com/dwaradwara">
+  <img src="https://img.shields.io/badge/GitHub-dwaradwara-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 <br>
 
 <p align="center">
-  <b>Build systems. Observe them. Break them safely. Understand why they fail.</b>
-</p>
-
-<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,100:0e7490"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0f172a,100:0891b2"
     width="100%"
   />
 </p>
