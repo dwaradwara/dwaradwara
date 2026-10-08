@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  Technical support professional with <b>3+ years of customer-facing experience</b>.<br>
-  I investigate customer-impacting issues using <b>Browser DevTools, logs, APIs, SQL, Linux, and monitoring</b>,
-  then turn the evidence into a clear resolution, escalation, recovery check, and client update.
+  I turn customer-impacting technical issues into
+  <b>evidence-backed resolutions and engineering escalations.</b>
 </p>
 
 <p align="center">
@@ -28,19 +27,13 @@
 
 # 👋 30-Second Introduction
 
-I’m a **Technical Support Engineer with 3+ years of customer-facing B2B experience**, focused on owning technical issues from first report through resolution or well-documented engineering escalation.
+I’m a **Technical Support Engineer with 3+ years of customer-facing B2B experience**, owning technical issues from initial report through resolution or well-documented engineering escalation.
 
-I troubleshoot across **Browser DevTools, server logs, REST/HTTP, SQL/PostgreSQL, Linux, Docker, and monitoring**, using evidence to reproduce the issue, isolate the failing layer, apply the smallest safe fix, and validate recovery before closure.
-
-My hands-on portfolio extends that support foundation into **B2B SaaS, production support, AWS, databases, observability, fintech/payments, and data platforms**.
-
-<p align="center">
-  <b>Customer issue → Technical evidence → Root cause → Resolution / Escalation → Recovery validation</b>
-</p>
+My hands-on work spans **Browser DevTools, server logs, REST/HTTP, SQL/PostgreSQL, Linux, Docker, AWS, and observability**, with portfolio projects covering B2B SaaS, production support, fintech/payments, databases, and cloud operations.
 
 ---
 
-# 🧭 How I Troubleshoot
+# 🧭 Incident Investigation Workflow
 
 ```mermaid
 flowchart LR
