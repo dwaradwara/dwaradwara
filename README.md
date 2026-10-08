@@ -24,7 +24,19 @@
   <img src="https://img.shields.io/badge/Cloud%20Operations-0f172a?style=for-the-badge">
 </p>
 
-> **Portfolio boundary:** the engineering projects below are controlled hands-on labs built for troubleshooting practice and evidence. They do not represent employer production systems or real customer incidents.
+---
+
+# 👋 30-Second Introduction
+
+I’m a **Technical Support Engineer with 3+ years of customer-facing B2B experience**, focused on owning technical issues from first report through resolution or well-documented engineering escalation.
+
+I troubleshoot across **Browser DevTools, server logs, REST/HTTP, SQL/PostgreSQL, Linux, Docker, and monitoring**, using evidence to reproduce the issue, isolate the failing layer, apply the smallest safe fix, and validate recovery before closure.
+
+My hands-on portfolio extends that support foundation into **B2B SaaS, production support, AWS, databases, observability, fintech/payments, and data platforms**.
+
+<p align="center">
+  <b>Customer issue → Technical evidence → Root cause → Resolution / Escalation → Recovery validation</b>
+</p>
 
 ---
 
