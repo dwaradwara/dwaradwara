@@ -47,7 +47,7 @@ My current focus is:
 ### AWS DevOps Engineer
 **Mar 2023 – May 2026**
 
-Commercial DevOps and cloud engineering experience across AWS and multi-cloud environments.
+3+ years of commercial DevOps and cloud engineering experience across AWS and multi-cloud environments.
 
 Key areas of work:
 
@@ -83,7 +83,7 @@ including cluster provisioning, workload deployment, application lifecycle manag
 
 Worked with:
 
-`Jenkins` `GitLab CI/CD` `Azure DevOps` `GitHub Actions` `Argo CD`
+`Jenkins` `GitLab CI/CD` `Azure DevOps` `Argo CD`
 
 including automated builds, deployment pipelines, GitOps workflows, release automation, and application delivery.
 
@@ -121,7 +121,7 @@ This support background continues to strengthen my DevOps work by keeping troubl
 | **Containers** | Docker, Podman |
 | **Orchestration** | Kubernetes, OpenShift |
 | **Package / Deployment Management** | Helm |
-| **CI/CD** | Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions |
+| **CI/CD** | Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions (hands-on labs) |
 | **GitOps** | Argo CD |
 | **Operating Systems** | Linux, RHEL, Ubuntu, Windows |
 | **Web / Application Servers** | Nginx, Tomcat |
@@ -163,7 +163,7 @@ flowchart LR
 
 # ☁️ Featured Cloud & DevOps Projects
 
-> These repositories are independent engineering labs created to demonstrate technical capabilities. They do not contain employer or client source code, infrastructure, credentials, or production data.
+> These repositories are independent engineering labs created to demonstrate technical capabilities and current hands-on practice. They are separate from my commercial employment and contain no employer/client source code, infrastructure, credentials, or production data.
 
 <table>
 <tr>
