@@ -2,220 +2,112 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=Dwaragesh%20D&fontAlign=50&fontAlignY=36&desc=Technical%20Support%20%E2%80%A2%20Application%20Support%20%E2%80%A2%20Production%20Support&descAlign=50&descAlignY=58&color=0:020617,45:0f172a,100:0891b2&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=Dwaragesh%20D&fontAlign=50&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Platform%20%26%20SRE&descAlign=50&descAlignY=58&color=0:020617,45:0f172a,100:0891b2&fontColor=ffffff"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <b>B2B SaaS · Incident Response · APIs · Databases · Observability</b>
+  <b>AWS · Kubernetes · OpenShift · Terraform · Ansible · CI/CD · GitOps · Linux · Observability</b>
 </p>
 
 <p align="center">
-  I turn customer-impacting technical issues into
-  <b>evidence-backed resolutions and engineering escalations.</b>
+  DevOps / Cloud Engineer with nearly <b>6 years of continuous commercial IT experience</b>,
+  including <b>3+ years in DevOps and cloud engineering</b> and an earlier foundation in
+  customer-facing technical support.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B2B%20Support-0f172a?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Incident%20Response-0f172a?style=for-the-badge">
-  <img src="https://img.shields.io/badge/API%20%26%20DB%20Troubleshooting-0f172a?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud%20Operations-0f172a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-0f172a?style=for-the-badge&logo=terraform">
+  <img src="https://img.shields.io/badge/Ansible-0f172a?style=for-the-badge&logo=ansible">
+  <img src="https://img.shields.io/badge/ArgoCD-0f172a?style=for-the-badge&logo=argo">
 </p>
 
 ---
 
-# 👋 30-Second Introduction
+# 👋 About Me
 
-I’m a **Technical Support Engineer with 3+ years of customer-facing B2B experience**, owning technical issues from initial report through resolution or well-documented engineering escalation.
+I am a **DevOps / Cloud Engineer** with nearly 6 years of commercial IT experience.
 
-My hands-on work spans **Browser DevTools, server logs, REST/HTTP, SQL/PostgreSQL, Linux, Docker, AWS, and observability**, with portfolio projects covering B2B SaaS, production support, fintech/payments, databases, and cloud operations.
+My career started in customer-facing technical support, where I developed strong troubleshooting, incident-handling, escalation, documentation, Linux, networking, and database fundamentals.
 
----
+I then moved into **DevOps and cloud engineering**, working with AWS and multi-cloud environments, Infrastructure as Code, container orchestration, CI/CD, GitOps, monitoring, logging, and deployment automation.
 
-# 🧭 Incident Investigation Workflow
+My current focus is:
 
-```mermaid
-flowchart LR
-    A[Customer Issue / Alert] --> B[Reproduce]
-    B --> C[DevTools / Logs / Metrics / SQL]
-    C --> D[Isolate Failing Layer]
-    D --> E{Resolve in Support?}
-    E -->|Yes| F[Smallest Safe Fix]
-    E -->|No| G[L2 / L3 Escalation]
-    F --> H[Validate Recovery]
-    G --> H
-    H --> I[Client Update / RCA / Runbook]
-```
-
-<p align="center">
-  <b>Reproduce → Collect evidence → Isolate → Resolve or escalate → Validate → Document</b>
-</p>
+**DevOps Engineering · Cloud Infrastructure · Platform Engineering · SRE**
 
 ---
 
-# 📌 Evidence Highlights
+# 💼 Commercial Experience
 
-<table>
-<tr>
-<td width="33%" align="center">
+## RedCloud Soft Solutions Pvt Ltd
+### AWS DevOps Engineer
+**Mar 2023 – May 2026**
 
-### 8 / 8 → HTTP 503
-Controlled upstream outage reproduced consistently in the B2B incident lab.
+Commercial DevOps and cloud engineering experience across AWS and multi-cloud environments.
 
-</td>
-<td width="33%" align="center">
+Key areas of work:
 
-### 10 / 10 → HTTP 200
-Recovery validated repeatedly after restoring the failed dependency.
+- AWS cloud infrastructure design and deployment
+- Terraform-based Infrastructure as Code
+- Kubernetes and OpenShift administration
+- Docker and Podman containerization
+- CI/CD pipeline automation
+- Jenkins, GitLab CI/CD, and Azure DevOps
+- Argo CD and GitOps-based delivery
+- Ansible configuration management
+- Helm-based Kubernetes deployments
+- Prometheus and Grafana monitoring
+- ELK-based centralized logging
+- Linux administration and Shell/Python automation
+- High-availability, deployment, and operational troubleshooting
 
-</td>
-<td width="33%" align="center">
+### AWS Infrastructure
 
-### 114 → 0
-RabbitMQ backlog drained after isolating a worker outage in NIGHTWATCH.
+Hands-on work with services including:
 
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
+`EC2` `S3` `RDS` `EFS` `IAM` `VPC` `Route 53` `CloudFront` `ELB` `CloudWatch` `Lambda` `SNS` `SQS` `API Gateway` `DynamoDB`
 
-### ~500k rows
-PostgreSQL query-plan investigation and targeted indexing in the managed-services lab.
+### Container & Platform Engineering
 
-</td>
-<td width="33%" align="center">
+Worked with:
 
-### AWS ECS staging
-OpsPilot deployed with ECS Fargate, RDS, Redis, Terraform, OIDC, and observability.
+`Kubernetes` `OpenShift` `Docker` `Podman` `Helm` `NGINX Ingress`
 
-</td>
-<td width="33%" align="center">
+including cluster provisioning, workload deployment, application lifecycle management, traffic routing, and deployment strategies.
 
-### ClickHouse + Kafka
-Replicated analytics support environment with Kafka ingestion, Keeper, and diagnostics.
+### CI/CD & GitOps
 
-</td>
-</tr>
-</table>
+Worked with:
 
----
+`Jenkins` `GitLab CI/CD` `Azure DevOps` `GitHub Actions` `Argo CD`
 
-# ⚡ Featured Support Engineering Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🎯 B2B Incident Response Support Lab
-
-**B2B Technical Support · Application Support**
-
-<a href="https://github.com/dwaradwara/b2b-incident-response-support-lab/actions/workflows/test.yml">
-  <img src="https://github.com/dwaradwara/b2b-incident-response-support-lab/actions/workflows/test.yml/badge.svg">
-</a>
-
-`DevTools` `FastAPI` `PostgreSQL` `Prometheus`
-
-- Browser DevTools + request-ID log correlation
-- real upstream HTTP 503 dependency outage
-- SEV-1 workflow and L1 → L2/L3 escalation
-- back-office troubleshooting
-- automated outage and recovery validation
-
-<a href="https://github.com/dwaradwara/b2b-incident-response-support-lab">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-## 🌙 NIGHTWATCH Production Support Lab
-
-**Production Support · Application Support**
-
-<a href="https://github.com/dwaradwara/nightwatch-production-support-lab/actions/workflows/ci.yml">
-  <img src="https://github.com/dwaradwara/nightwatch-production-support-lab/actions/workflows/ci.yml/badge.svg">
-</a>
-
-`Linux` `RabbitMQ` `Redis` `PostgreSQL` `Grafana`
-
-- queue backlog and worker outage diagnosis
-- PostgreSQL locks and connection exhaustion
-- Nginx / DNS / HTTP failure isolation
-- Redis dependency troubleshooting
-- metrics, logs, traces, and operational records
-
-<a href="https://github.com/dwaradwara/nightwatch-production-support-lab">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🚦 OpsPilot
-
-**Production Support · Cloud Support**
-
-<a href="https://github.com/dwaradwara/opspilot/actions/workflows/ci.yml">
-  <img src="https://github.com/dwaradwara/opspilot/actions/workflows/ci.yml/badge.svg?branch=master">
-</a>
-
-`AWS` `ECS` `Terraform` `PostgreSQL` `Redis`
-
-- AWS staging environment on ECS Fargate
-- SLOs, error budgets, metrics, logs, and traces
-- GitHub Actions + AWS OIDC
-- transactional outbox and dependency recovery
-- controlled incident drills and runbooks
-
-<a href="https://github.com/dwaradwara/opspilot">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-## 💳 Fintech Incident Operations Lab
-
-**Fintech · Payments Support**
-
-<a href="https://github.com/dwaradwara/fintech-incident-operations-lab/actions/workflows/ci.yml">
-  <img src="https://github.com/dwaradwara/fintech-incident-operations-lab/actions/workflows/ci.yml/badge.svg">
-</a>
-
-`Datadog` `Prometheus` `PostgreSQL` `Redis`
-
-- payment incident triage and reconciliation
-- DLQ / queue failure investigation
-- Datadog custom metrics and monitor lifecycle
-- duplicate / ambiguous payment handling
-- stakeholder updates and post-incident analysis
-
-<a href="https://github.com/dwaradwara/fintech-incident-operations-lab">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
+including automated builds, deployment pipelines, GitOps workflows, release automation, and application delivery.
 
 ---
 
-# 🎯 Hiring Manager Fast Path
+## Pantech ProEd Pvt Ltd
+### Technical Project Engineer / Technical Support
+**Aug 2020 – Feb 2023**
 
-| Hiring for | Start here |
-|---|---|
-| **Technical / B2B Support** | [B2B Incident Response](https://github.com/dwaradwara/b2b-incident-response-support-lab) → [Supabase Support](https://github.com/dwaradwara/supabase-support-lab) |
-| **Application / Production Support** | [NIGHTWATCH](https://github.com/dwaradwara/nightwatch-production-support-lab) → [L2 Production Support](https://github.com/dwaradwara/l2-production-support-lab) |
-| **Cloud / DevOps Support** | [OpsPilot](https://github.com/dwaradwara/opspilot) → [Linux DevOps Operations](https://github.com/dwaradwara/linux-devops-operations-lab) |
-| **Database / Data Platform Support** | [ClickHouse Support](https://github.com/dwaradwara/clickhouse-customer-support-lab) → [Supabase Support](https://github.com/dwaradwara/supabase-support-lab) |
-| **Fintech / Payments** | [Fintech Incident Operations](https://github.com/dwaradwara/fintech-incident-operations-lab) → [Usage-Based Billing](https://github.com/dwaradwara/usage-based-billing-support-lab) |
-| **Linux / Infrastructure Support** | [Ubuntu / KVM](https://github.com/dwaradwara/ubuntu-kvm-support-lab) → [Linux Infrastructure Toolkit](https://github.com/dwaradwara/linux-infrastructure-support-toolkit) |
-| **AI SaaS Support** | [AI Support Specialist Lab](https://github.com/dwaradwara/ai-support-specialist-lab) |
+Built my technical foundation through customer-facing support across Linux, applications, databases, networking, and configuration issues.
+
+Key responsibilities included:
+
+- customer-facing technical troubleshooting
+- Linux and application diagnostics
+- TCP/IP, DNS, HTTP/HTTPS, and SSL/TLS troubleshooting
+- PostgreSQL investigation
+- logs and command-line diagnostics
+- incident reproduction and escalation
+- configuration changes and validation
+- runbooks, troubleshooting guides, and knowledge-base documentation
+- technical guidance and team support
+
+This support background continues to strengthen my DevOps work by keeping troubleshooting, customer impact, incident ownership, and clear technical communication at the center of how I operate systems.
 
 ---
 
@@ -223,86 +115,290 @@ Replicated analytics support environment with Kafka ingestion, Keeper, and diagn
 
 | Area | Technologies |
 |---|---|
-| **Support & troubleshooting** | Browser DevTools, REST/HTTP, JSON, logs, SQL, curl, Bash |
-| **Systems & containers** | Linux, Ubuntu, Docker, Nginx, Kubernetes, KVM/libvirt |
-| **Cloud & automation** | AWS, Terraform/OpenTofu, Ansible, GitHub Actions, ArgoCD |
-| **Data & messaging** | PostgreSQL, Redis, ClickHouse, Kafka, RabbitMQ, Supabase |
-| **Observability** | Prometheus, Grafana, Datadog, CloudWatch, OpenTelemetry, Zabbix |
-| **Applications** | Python, FastAPI, Flask, Spring Boot / Java, LangSmith |
+| **Cloud** | AWS, GCP, Azure |
+| **Infrastructure as Code** | Terraform, OpenTofu |
+| **Configuration Management** | Ansible |
+| **Containers** | Docker, Podman |
+| **Orchestration** | Kubernetes, OpenShift |
+| **Package / Deployment Management** | Helm |
+| **CI/CD** | Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions |
+| **GitOps** | Argo CD |
+| **Operating Systems** | Linux, RHEL, Ubuntu, Windows |
+| **Web / Application Servers** | Nginx, Tomcat |
+| **Monitoring** | Prometheus, Grafana, CloudWatch |
+| **Logging** | ELK, Elasticsearch, Logstash, Kibana, Splunk |
+| **Scripting** | Bash / Shell, Python |
+| **Version Control** | Git, GitHub, GitLab |
+| **Databases** | PostgreSQL, Amazon RDS, DynamoDB, Oracle Database 19c |
+| **Networking** | VPC, DNS, Route 53, Load Balancing, NGINX Ingress, TCP/IP |
+| **Code Quality** | SonarQube |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,postgres,redis,python,java,github,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,terraform,ansible,jenkins,gitlab,github,nginx,postgres,grafana,python,bash&theme=dark" />
 </p>
 
 ---
 
-# 📚 Full Technical Portfolio
+# ⚙️ DevOps Engineering Workflow
 
-<details>
-<summary><b>View all 15 hands-on project repositories</b></summary>
-
-<br>
-
-### Technical / Application Support
-
-- [B2B Incident Response Support Lab](https://github.com/dwaradwara/b2b-incident-response-support-lab) — DevTools, server logs, Prometheus, critical incidents, back-office troubleshooting
-- [Supabase Support Lab](https://github.com/dwaradwara/supabase-support-lab) — PostgreSQL, Auth, JWT, RLS, Storage, PostgREST, Unified Logs
-- [Usage-Based Billing Support Lab](https://github.com/dwaradwara/usage-based-billing-support-lab) — billing APIs, SQL reconciliation, idempotency, Python support tooling
-- [SaaS Solution Engineering Lab](https://github.com/dwaradwara/saas-solution-engineering-lab) — onboarding, API integrations, CSV mapping, customer expansion
-
-### Production / Application Operations
-
-- [L2 Production Support Lab](https://github.com/dwaradwara/l2-production-support-lab) — Linux, APIs, PostgreSQL, AWS, Kubernetes, observability
-- [NIGHTWATCH Production Support Lab](https://github.com/dwaradwara/nightwatch-production-support-lab) — Nginx, PostgreSQL, Redis, RabbitMQ, logs, traces
-- [Managed Services L2 Support Lab](https://github.com/dwaradwara/managed-services-l2-support-lab) — Spring Boot, PostgreSQL, Kubernetes, backup/recovery, monitoring
-- [Fintech Incident Operations Lab](https://github.com/dwaradwara/fintech-incident-operations-lab) — payment incidents, Datadog, reconciliation, Redis, centralized logging
-
-### Cloud / DevOps / Infrastructure
-
-- [OpsPilot](https://github.com/dwaradwara/opspilot) — AWS ECS, RDS, Redis, Terraform, observability, CI/CD
-- [Linux DevOps Operations Lab](https://github.com/dwaradwara/linux-devops-operations-lab) — Ansible, KVM, Docker, Nginx, Zabbix, Grafana
-- [GitOps ArgoCD DevOps Lab](https://github.com/dwaradwara/gitops-argocd-devops-lab) — Kubernetes, ArgoCD, GitHub Actions, drift, rollback
-- [Ubuntu / KVM Support Lab](https://github.com/dwaradwara/ubuntu-kvm-support-lab) — KVM/QEMU, libvirt, OpenTofu, cloud-init, Prometheus
-- [Linux Infrastructure Support Toolkit](https://github.com/dwaradwara/linux-infrastructure-support-toolkit) — systemd, DNS, TLS, Docker, virtualization, storage, diagnostics
-
-### Specialist Support
-
-- [ClickHouse Customer Support Lab](https://github.com/dwaradwara/clickhouse-customer-support-lab) — ClickHouse, Kafka, Keeper, replication, query diagnostics
-- [AI Support Specialist Lab](https://github.com/dwaradwara/ai-support-specialist-lab) — FastAPI, OpenAI, LangSmith, CloudWatch, AI incident troubleshooting
-
-</details>
-
----
-
-# 📌 Current Direction
+```mermaid
+flowchart LR
+    A[Source Code] --> B[Git]
+    B --> C[CI Pipeline]
+    C --> D[Build & Test]
+    D --> E[Container Image]
+    E --> F[Registry]
+    F --> G[GitOps / Deployment]
+    G --> H[Kubernetes / OpenShift]
+    H --> I[Monitoring & Logging]
+    I --> J[Incident / Feedback]
+    J --> B
+```
 
 <p align="center">
-  <b>Technical Support Engineering · Application Support · Production Support</b>
-</p>
-
-<p align="center">
-  Cloud, infrastructure, database, and observability skills support my primary focus:
-  <b>diagnosing and resolving customer-impacting technical issues.</b>
+  <b>Automate → Deploy → Observe → Troubleshoot → Improve</b>
 </p>
 
 ---
 
-# 🤝 Connect
+# ☁️ Featured Cloud & DevOps Projects
+
+> These repositories are independent engineering labs created to demonstrate technical capabilities. They do not contain employer or client source code, infrastructure, credentials, or production data.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🚦 OpsPilot
+
+**AWS · Terraform · ECS · RDS · Redis · CI/CD · Observability**
+
+<a href="https://github.com/dwaradwara/opspilot">
+  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- AWS staging environment
+- Infrastructure as Code
+- ECS Fargate
+- RDS and Redis
+- GitHub Actions
+- AWS OIDC
+- SLOs and error budgets
+- metrics, logs, and traces
+- deployment and dependency recovery workflows
+
+</td>
+<td width="50%" valign="top">
+
+## 🔄 GitOps ArgoCD DevOps Lab
+
+**Kubernetes · Argo CD · GitOps · CI/CD**
+
+<a href="https://github.com/dwaradwara/gitops-argocd-devops-lab">
+  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- Kubernetes deployments
+- GitOps delivery
+- Argo CD synchronization
+- drift detection
+- rollback workflows
+- GitHub Actions integration
+- declarative application delivery
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🐧 Linux DevOps Operations Lab
+
+**Linux · Ansible · Docker · Nginx · PostgreSQL · Monitoring**
+
+<a href="https://github.com/dwaradwara/linux-devops-operations-lab">
+  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- multi-VM Linux environment
+- Ansible configuration management
+- Docker workloads
+- Nginx configuration
+- infrastructure monitoring
+- access management
+- deployment rollback
+- operational troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+## 🖥️ Ubuntu / KVM Infrastructure Lab
+
+**KVM · QEMU · libvirt · OpenTofu · Prometheus**
+
+<a href="https://github.com/dwaradwara/ubuntu-kvm-support-lab">
+  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- KVM/QEMU virtualization
+- libvirt networking
+- Infrastructure as Code
+- Linux VM provisioning
+- monitoring and alerting
+- storage and network incident simulation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🛠️ Linux Infrastructure Support Toolkit
+
+**Linux · Bash · Ansible · PostgreSQL · systemd · LVM · nftables**
+
+<a href="https://github.com/dwaradwara/linux-infrastructure-support-toolkit">
+  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- Linux diagnostics
+- systemd troubleshooting
+- DNS investigation
+- LVM and filesystem management
+- firewall troubleshooting
+- PostgreSQL recovery
+- idempotent Ansible baseline
+- support-bundle automation
+
+</td>
+<td width="50%" valign="top">
+
+## 🌙 NIGHTWATCH Operations Lab
+
+**Linux · Nginx · PostgreSQL · Redis · RabbitMQ · Observability**
+
+<a href="https://github.com/dwaradwara/nightwatch-production-support-lab">
+  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- production-style incident investigation
+- queue and worker troubleshooting
+- PostgreSQL locks and connection exhaustion
+- Redis dependency analysis
+- Nginx and HTTP failure isolation
+- metrics, logs, and traces
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Engineering Highlights
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### AWS Infrastructure
+Hands-on commercial experience with compute, networking, storage, databases, IAM, load balancing, DNS, serverless, and monitoring.
+
+</td>
+
+<td width="33%" align="center">
+
+### Kubernetes & OpenShift
+Cluster and workload operations, Helm, ingress, container deployment, scaling, and release workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+### Infrastructure as Code
+Terraform and Ansible for repeatable infrastructure provisioning and configuration management.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### CI/CD
+Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions, automated deployment workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+### GitOps
+Argo CD, declarative deployments, synchronization, rollback, and configuration drift handling.
+
+</td>
+
+<td width="33%" align="center">
+
+### Observability
+Prometheus, Grafana, CloudWatch, ELK, Splunk, logs, metrics, alerting, and incident investigation.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔧 What I Bring to DevOps
+
+My earlier technical-support experience gives me an additional operational perspective.
+
+I do not approach infrastructure only as deployment automation.
+
+I also think about:
+
+- customer and application impact
+- failure isolation
+- logs and evidence
+- safe remediation
+- rollback
+- incident communication
+- post-change validation
+- documentation
+- recurring-problem prevention
+
+That combination of **support engineering + DevOps engineering** is especially useful in Cloud Infrastructure, Platform Engineering, SRE, and production-facing DevOps environments.
+
+---
+
+# 🎯 Current Direction
+
+<p align="center">
+  <b>DevOps Engineering · Cloud Infrastructure · Platform Engineering · SRE</b>
+</p>
+
+<p align="center">
+  Building reliable, repeatable, observable infrastructure with
+  <b>automation, Infrastructure as Code, containers, CI/CD, GitOps, and operational discipline.</b>
+</p>
+
+---
+
+# 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dwaragesh-d">
     <img src="https://img.shields.io/badge/LinkedIn-Dwaragesh%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:dwara6190@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://github.com/dwaradwara">
     <img src="https://img.shields.io/badge/GitHub-dwaradwara-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <b>Open to Technical Support, Application Support, and Production Support opportunities in Tbilisi / remote EMEA.</b>
+  <b>Open to DevOps, Cloud Infrastructure, Platform Engineering, SRE, and Cloud Support opportunities.</b>
 </p>
 
 <br>
