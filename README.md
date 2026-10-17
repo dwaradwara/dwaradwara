@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=Dwaragesh%20D&fontAlign=50&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Platform%20%26%20SRE&descAlign=50&descAlignY=58&color=0:020617,45:0f172a,100:0891b2&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=Dwaragesh%20D&fontAlign=50&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20SRE&descAlign=50&descAlignY=58&color=0:020617,45:0f172a,100:0891b2&fontColor=ffffff"
     width="100%"
   />
 </p>
